@@ -1,0 +1,22 @@
+{
+    "name": "RB ultrasonic final",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*",
+        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.5",
+        "bluetooth": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
